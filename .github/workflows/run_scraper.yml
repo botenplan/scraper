@@ -1,9 +1,36 @@
+name: MPET Bot Scraper
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Code ophalen
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Python instellen
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.9'
+
+    - name: Tools installeren
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+
+    - name: Bot draaien
+      run: python scraper.py
+
     - name: Resultaat opslaan
       run: |
         git config --global user.name "MPET Bot"
         git config --global user.email "bot@github.com"
-        git fetch origin main
-        git reset --soft origin/main
         git add mpet_planning.json
         git commit -m "Update planning" || exit 0
         git push origin main --force
