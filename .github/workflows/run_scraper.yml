@@ -1,0 +1,35 @@
+name: MPET Bot Scraper
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Elke 30 minuten
+  workflow_dispatch: # Knop om handmatig te testen
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Belangrijk om het bestand te mogen opslaan
+
+    steps:
+    - name: Code ophalen
+      uses: actions/checkout@v4
+
+    - name: Python instellen
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Tools installeren
+      run: pip install requests beautifulsoup4
+
+    - name: Bot draaien
+      run: python scraper.py
+
+    - name: Resultaat opslaan in repository
+      run: |
+        git config --global user.name "MPET Bot"
+        git config --global user.email "bot@github.com"
+        git add mpet_planning.json
+        git commit -m "Update planning" || exit 0
+        git push
