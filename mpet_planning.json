@@ -1,37 +1,35 @@
-[
-    {
-        "naam": "Vlissingen: Vopak Steiger 2",
-        "tijd": "West: Wandelaar",
-        "kade": "179,86"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok Z 1710 DP World",
-        "tijd": "Noord: Steenbank",
-        "kade": "172,00"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "178,57"
-    },
-    {
-        "naam": "Terneuzen: Yara Bravo Axelse Vlaktehaven",
-        "tijd": "West: Wandelaar",
-        "kade": "177,38"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
-        "tijd": "West: Wandelaar",
-        "kade": "178,57"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "178,57"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "170,00"
-    }
-]
+name: MPET Bot Scraper
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python setup
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Installatie
+        run: pip install requests beautifulsoup4
+
+      - name: Run
+        run: python scraper.py
+
+      - name: Opslaan naar GitHub
+        run: |
+          git config --global user.name "MPET-Bot"
+          git config --global user.email "bot@mpet.com"
+          git add mpet_planning.json
+          git commit -m "Planning update: $(date)" || exit 0
+          git push origin main
