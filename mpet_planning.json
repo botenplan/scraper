@@ -31,5 +31,5 @@ jobs:
           git config --global user.name "MPET-Bot"
           git config --global user.email "bot@mpet.com"
           git add mpet_planning.json
-          git commit -m "Planning update: $(date)" || exit 0
+          git commit -m "Planning update" || exit 0
           git push origin main
