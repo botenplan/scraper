@@ -35,4 +35,3 @@ jobs:
           git add mpet_planning.json
           git commit -m "Planning bijgewerkt door bot" || exit 0
           git push origin main
-p
