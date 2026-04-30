@@ -21,9 +21,7 @@ jobs:
           python-version: '3.9'
 
       - name: Tools installeren
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4
 
       - name: Bot draaien
         run: python scraper.py
@@ -33,5 +31,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add mpet_planning.json
-          git commit -m "Planning bijgewerkt door bot" || exit 0
+          git commit -m "Planning bijgewerkt" || exit 0
           git push origin main
