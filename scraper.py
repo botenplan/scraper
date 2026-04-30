@@ -1,29 +1,15 @@
-import requests
-from bs4 import BeautifulSoup
+import json
 
-# Instellingen
-URL = "DE_LINK_NAAR_DE_PLANNING_WEBSITE"
-TOPIC = "mijn_mpet_boten_123" # Zelfde naam als in de app
-
-def check_planning():
-    response = requests.get(URL)
-    soup = BeautifulSoup(response.text, 'html.parser')
+def test_bot():
+    # We maken handmatig een lijstje om te kijken of je app het ontvangt
+    test_data = [
+        {"naam": "TEST MSC AMSTERDAM", "tijd": "14:30", "kade": "1742"},
+        {"naam": "TEST MAERSK ANTWERP", "tijd": "18:00", "kade": "1712"}
+    ]
     
-    # Zoek alle rijen in de tabel
-    rows = soup.find_all('tr')
-    found_ships = []
+    with open('mpet_planning.json', 'w', encoding='utf-8') as f:
+        json.dump(test_data, f, ensure_ascii=False, indent=4)
+    print("Test-boten zijn verstuurd naar de app!")
 
-    for row in rows:
-        text = row.get_text()
-        if "MPET West" in text or "MPET Oost" in text:
-            # Pak de relevante info (naam, tijd, etc.)
-            found_ships.append(text.strip())
-
-    if found_ships:
-        bericht = "\n".join(found_ships)
-        # Stuur naar je app via ntfy
-        requests.post(f"https://ntfy.sh/{TOPIC}", 
-                      data=bericht.encode('utf-8'),
-                      headers={"Title": "Nieuwe MPET Planning"})
-
-check_planning()
+if __name__ == "__main__":
+    test_bot()
