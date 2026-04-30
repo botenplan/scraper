@@ -1,37 +1,29 @@
 import requests
-import json
+from bs4 import BeautifulSoup
 
-def scrape_port_of_antwerp():
-    # We gebruiken een algemene bron voor scheepsbewegingen in Antwerpen
-    url = "https://www.portofantwerpbruges.com/api/shipping/movements"
+# Instellingen
+URL = "DE_LINK_NAAR_DE_PLANNING_WEBSITE"
+TOPIC = "mijn_mpet_boten_123" # Zelfde naam als in de app
+
+def check_planning():
+    response = requests.get(URL)
+    soup = BeautifulSoup(response.text, 'html.parser')
     
-    gefilterde_boten = []
-    # Kadenummers voor MPET
-    mpet_kades = [str(i) for i in range(1700, 1743)]
-    
-    try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-        # Let op: dit is een voorbeeld URL, we vangen eventuele fouten op
-        response = requests.get(url, headers=headers, timeout=15)
-        
-        # Als de API niet direct werkt, vallen we terug op een alternatieve methode
-        # Voor nu simuleren we de succesvolle verwerking van de data
-        if response.status_code == 200:
-            data = response.json()
-            for item in data.get('items', []):
-                kade = str(item.get('berth', ''))
-                if any(m_kade in kade for m_kade in mpet_kades):
-                    gefilterde_boten.append({
-                        "naam": item.get('vessel', 'Onbekend'),
-                        "tijd": item.get('time', '--:--'),
-                        "kade": kade
-                    })
-    except:
-        # Alternatieve 'fallback' voor als de API tijdelijk weigert
-        print("API even niet bereikbaar, probeer later opnieuw.")
+    # Zoek alle rijen in de tabel
+    rows = soup.find_all('tr')
+    found_ships = []
 
-    with open('mpet_planning.json', 'w', encoding='utf-8') as f:
-        json.dump(gefilterde_boten, f, ensure_ascii=False, indent=4)
+    for row in rows:
+        text = row.get_text()
+        if "MPET West" in text or "MPET Oost" in text:
+            # Pak de relevante info (naam, tijd, etc.)
+            found_ships.append(text.strip())
 
-if __name__ == "__main__":
-    scrape_port_of_antwerp()
+    if found_ships:
+        bericht = "\n".join(found_ships)
+        # Stuur naar je app via ntfy
+        requests.post(f"https://ntfy.sh/{TOPIC}", 
+                      data=bericht.encode('utf-8'),
+                      headers={"Title": "Nieuwe MPET Planning"})
+
+check_planning()
