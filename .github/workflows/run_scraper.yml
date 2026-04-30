@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Code ophalen
         uses: actions/checkout@v4
+        with:
+          # Dit zorgt ervoor dat de bot de volledige geschiedenis heeft om fouten te voorkomen
+          fetch-depth: 0
 
       - name: Python instellen
         uses: actions/setup-python@v5
@@ -30,6 +33,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # We voegen het bestand toe
           git add mpet_planning.json
-          git commit -m "Update planning" || exit 0
+          
+          # We vertellen de bot dat als er een conflict is, hij de versie van de bot moet pakken
+          git commit -m "Planning bijgewerkt" || exit 0
+          
+          # De '--force' is de hamer: hiermee negeert hij de fout uit je screenshot
           git push origin main --force
