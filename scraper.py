@@ -1,46 +1,37 @@
-import requests
-from bs4 import BeautifulSoup
-import json
+name: MPET Bot Scraper
 
-def scrape_mpet():
-    url = "https://lisscheldemonden.eu/VerwachteReizen.aspx"
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
-    }
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
 
-    try:
-        print("Bot start met zoeken...")
-        response = requests.get(url, headers=headers, timeout=30)
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Zoek de tabel
-        table = soup.find('table')
-        if not table:
-            print("Geen tabel gevonden!")
-            return
+permissions:
+  contents: write
 
-        mpet_boten = []
-        rows = table.find_all('tr')
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Code ophalen
+        uses: actions/checkout@v4
 
-        for row in rows[1:]:
-            cols = row.find_all('td')
-            if len(cols) >= 6:
-                naam = cols[1].text.strip()
-                tijd = cols[0].text.strip()
-                kade = cols[5].text.strip()
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
 
-                # Filter op alle kades die met 17 beginnen (MPET)
-                if "17" in kade:
-                    mpet_boten.append({"naam": naam, "tijd": tijd, "kade": kade})
+      - name: Tools installeren
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
 
-        # Schrijf het bestand
-        with open('mpet_planning.json', 'w', encoding='utf-8') as f:
-            json.dump(mpet_boten, f, ensure_ascii=False, indent=4)
-        
-        print(f"Succes! {len(mpet_boten)} boten gevonden en klaargezet voor opslag.")
+      - name: Bot draaien
+        run: python scraper.py
 
-    except Exception as e:
-        print(f"Fout tijdens het scrapen: {e}")
-
-if __name__ == "__main__":
-    scrape_mpet()
+      - name: Resultaat opslaan
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add mpet_planning.json
+          git commit -m "Planning bijgewerkt door bot" || exit 0
+          git push origin main
