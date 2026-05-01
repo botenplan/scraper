@@ -6,15 +6,15 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "178,57",
-        "status": "Live"
-    },
-    {
         "naam": "Terneuzen: Yara Alfa Axelse Vlaktehaven",
         "tijd": "West: Wandelaar",
         "kade": "179,87",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,95",
         "status": "Live"
     },
     {
