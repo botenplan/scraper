@@ -1,14 +1,20 @@
 [
     {
-        "naam": "Vlissingen: Vopak Steiger 2",
+        "naam": "Vlissingen: Bijleveldhaven Noord",
         "tijd": "West: Wandelaar",
-        "kade": "179,86",
+        "kade": "172,00",
         "status": "Live"
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "170,17",
+        "status": "Live"
+    },
+    {
+        "naam": "Zeebrugge: Kaai 121 Zeebrugge Buitenhaven",
+        "tijd": "West: Wandelaar",
+        "kade": "179,75",
         "status": "Live"
     },
     {
