@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Vlissingen: Bijleveldhaven Noord",
-        "tijd": "West: Wandelaar",
-        "kade": "172,00",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "170,17",
@@ -15,6 +9,12 @@
         "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
         "tijd": "West: Wandelaar",
         "kade": "178,57",
+        "status": "Live"
+    },
+    {
+        "naam": "Zeebrugge: Vandammesluis",
+        "tijd": "West: Wandelaar",
+        "kade": "176,00",
         "status": "Live"
     },
     {
