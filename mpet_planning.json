@@ -6,12 +6,6 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
-        "tijd": "West: Wandelaar",
-        "kade": "178,57",
-        "status": "Live"
-    },
-    {
         "naam": "Zeebrugge: Vandammesluis",
         "tijd": "West: Wandelaar",
         "kade": "176,00",
@@ -21,6 +15,12 @@
         "naam": "Zeebrugge: LNG Terminal - Kaai 616 Zeebrugge Buite",
         "tijd": "West: Wandelaar",
         "kade": "117,07",
+        "status": "Live"
+    },
+    {
+        "naam": "Terneuzen: Yara Bravo Axelse Vlaktehaven",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,90",
         "status": "Live"
     },
     {
