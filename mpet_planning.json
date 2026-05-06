@@ -1,14 +1,38 @@
 [
     {
-        "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
-        "kade": "178,57",
+        "kade": "179,46",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Noordzeeterminal 903",
+        "tijd": "Noord: Steenbank",
+        "kade": "171,99",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Bijleveldhaven staalkade",
+        "tijd": "West: Wandelaar",
+        "kade": "179,99",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Noordzeeterminal 911",
+        "tijd": "Noord: Steenbank",
+        "kade": "172,11",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Everingen Charlie",
+        "tijd": "West: Wandelaar",
+        "kade": "179,80",
         "status": "Live"
     },
     {
         "naam": "Terneuzen: Yara Bravo Axelse Vlaktehaven",
         "tijd": "Noord: Steenbank",
-        "kade": "179,90",
+        "kade": "179,97",
         "status": "Live"
     },
     {
