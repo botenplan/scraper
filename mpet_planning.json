@@ -6,21 +6,33 @@
         "status": "Live"
     },
     {
+        "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "178,57",
+        "status": "Live"
+    },
+    {
         "naam": "Antwerpen: A'pen sluizen linkeroever",
         "tijd": "West: Wandelaar",
         "kade": "179,95",
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "naam": "Gent: Kaai 5945, Rutgers Belgium (Gent)",
         "tijd": "West: Wandelaar",
-        "kade": "170,10",
+        "kade": "117,18",
         "status": "Live"
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "179,86",
+        "status": "Live"
+    },
+    {
+        "naam": "Terneuzen: Massagoedhaven Alfa Ovet",
+        "tijd": "West: Wandelaar",
+        "kade": "179,92",
         "status": "Live"
     },
     {
