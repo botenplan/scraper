@@ -1,8 +1,14 @@
 [
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "naam": "Vlissingen: Bijleveldhaven Noord",
         "tijd": "West: Wandelaar",
-        "kade": "170,00",
+        "kade": "172,00",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,95",
         "status": "Live"
     },
     {
