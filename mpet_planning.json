@@ -6,12 +6,6 @@
         "status": "Live"
     },
     {
-        "naam": "Vlissingen: Bijleveldhaven dwarskade",
-        "tijd": "Noord: Steenbank",
-        "kade": "178,50",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
         "tijd": "West: Wandelaar",
         "kade": "178,57",
@@ -24,9 +18,15 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
         "tijd": "West: Wandelaar",
-        "kade": "170,00",
+        "kade": "176,75",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "171,89",
         "status": "Live"
     },
     {
