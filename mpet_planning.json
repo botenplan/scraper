@@ -6,18 +6,6 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
-        "tijd": "West: Wandelaar",
-        "kade": "178,57",
-        "status": "Live"
-    },
-    {
-        "naam": "Terneuzen: Massagoedhaven Alfa Ovet",
-        "tijd": "West: Wandelaar",
-        "kade": "179,92",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen linkeroever",
         "tijd": "West: Wandelaar",
         "kade": "176,75",
@@ -27,6 +15,12 @@
         "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "171,89",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "tijd": "West: Wandelaar",
+        "kade": "170,00",
         "status": "Live"
     },
     {
