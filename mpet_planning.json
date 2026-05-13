@@ -18,15 +18,21 @@
         "status": "Live"
     },
     {
-        "naam": "Gent: Kaai 0310, Grootdok (Gent)",
-        "tijd": "West: Wandelaar",
-        "kade": "178,20",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "175,50",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "178,57",
+        "status": "Live"
+    },
+    {
+        "naam": "Zeebrugge: LNG Terminal - Kaai 616 Zeebrugge Buite",
+        "tijd": "West: Wandelaar",
+        "kade": "117,07",
         "status": "Live"
     },
     {
