@@ -12,15 +12,21 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "173,70",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 0310, Grootdok (Gent)",
         "tijd": "West: Wandelaar",
-        "kade": "170,00",
+        "kade": "178,20",
         "status": "Live"
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
-        "kade": "173,70",
+        "kade": "175,50",
         "status": "Live"
     },
     {
