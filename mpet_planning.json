@@ -24,15 +24,21 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "178,57",
-        "status": "Live"
-    },
-    {
         "naam": "Zeebrugge: LNG Terminal - Kaai 616 Zeebrugge Buite",
         "tijd": "West: Wandelaar",
         "kade": "117,07",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "170,00",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Noordzeeterminal 903",
+        "tijd": "Noord: Steenbank",
+        "kade": "172,11",
         "status": "Live"
     },
     {
