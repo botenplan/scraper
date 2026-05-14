@@ -13,32 +13,8 @@
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "173,70",
-        "status": "Live"
-    },
-    {
-        "naam": "Vlissingen: Everingen Delta",
-        "tijd": "West: Wandelaar",
-        "kade": "179,88",
-        "status": "Live"
-    },
-    {
-        "naam": "Zeebrugge: LNG Terminal - Kaai 616 Zeebrugge Buite",
-        "tijd": "West: Wandelaar",
-        "kade": "117,07",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "170,00",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Noordzeeterminal 903",
-        "tijd": "Noord: Steenbank",
-        "kade": "172,11",
         "status": "Live"
     },
     {
