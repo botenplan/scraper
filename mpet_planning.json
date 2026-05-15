@@ -6,21 +6,33 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "170,00",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "178,57",
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
+        "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
         "tijd": "West: Wandelaar",
         "kade": "179,75",
+        "status": "Live"
+    },
+    {
+        "naam": "Terneuzen: Oceandock Noord Braakmanhaven DOW",
+        "tijd": "West: Wandelaar",
+        "kade": "179,96",
+        "status": "Live"
+    },
+    {
+        "naam": "Zeebrugge: Kaai 121 Zeebrugge Buitenhaven",
+        "tijd": "West: Wandelaar",
+        "kade": "178,57",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Scaldia Terminal Verbrugge",
+        "tijd": "Noord: Steenbank",
+        "kade": "178,70",
         "status": "Live"
     },
     {
