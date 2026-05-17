@@ -1,14 +1,20 @@
 [
     {
+        "naam": "Vlissingen: Scaldia Terminal Verbrugge",
+        "tijd": "Noord: Steenbank",
+        "kade": "178,70",
+        "status": "Live"
+    },
+    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "179,86",
         "status": "Live"
     },
     {
-        "naam": "Vlissingen: Scaldia Terminal Verbrugge",
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
-        "kade": "178,70",
+        "kade": "117,80",
         "status": "Live"
     },
     {
