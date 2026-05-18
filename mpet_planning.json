@@ -1,17 +1,5 @@
 [
     {
-        "naam": "Vlissingen: Scaldia Terminal Verbrugge",
-        "tijd": "Noord: Steenbank",
-        "kade": "178,70",
-        "status": "Live"
-    },
-    {
-        "naam": "Zeebrugge: Vandammesluis",
-        "tijd": "West: Wandelaar",
-        "kade": "179,48",
-        "status": "Live"
-    },
-    {
         "naam": "Gent: Kaai 7620, Kluizendok sector E (Gent)",
         "tijd": "Noord: Steenbank",
         "kade": "174,38",
@@ -36,15 +24,15 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1734 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "217,02",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "117,80",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1734 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "217,02",
         "status": "Live"
     },
     {
