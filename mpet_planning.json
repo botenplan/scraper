@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "117,80",
-        "status": "Live"
-    },
-    {
         "naam": "Vlissingen: Scaldia Terminal Verbrugge",
         "tijd": "Noord: Steenbank",
         "kade": "178,70",
@@ -39,6 +33,24 @@
         "naam": "Terneuzen: Massagoedhaven Bravo Ovet",
         "tijd": "West: Wandelaar",
         "kade": "179,98",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1734 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "217,02",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "117,80",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "tijd": "West: Wandelaar",
+        "kade": "176,60",
         "status": "Live"
     },
     {
