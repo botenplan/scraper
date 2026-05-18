@@ -1,30 +1,42 @@
 [
     {
-        "naam": "Vlissingen: Scaldia Terminal Verbrugge",
-        "tijd": "Noord: Steenbank",
-        "kade": "178,70",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "179,53",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "117,80",
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
-        "tijd": "West: Wandelaar",
-        "kade": "170,07",
+        "naam": "Vlissingen: Scaldia Terminal Verbrugge",
+        "tijd": "Noord: Steenbank",
+        "kade": "178,70",
         "status": "Live"
     },
     {
-        "naam": "Terneuzen: Massagoedhaven Alfa Ovet",
+        "naam": "Zeebrugge: Vandammesluis",
+        "tijd": "West: Wandelaar",
+        "kade": "179,48",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 7620, Kluizendok sector E (Gent)",
+        "tijd": "Noord: Steenbank",
+        "kade": "174,38",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Bijleveldhaven dwarskade",
+        "tijd": "West: Wandelaar",
+        "kade": "175,72",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Everingen Delta",
+        "tijd": "Noord: Steenbank",
+        "kade": "174,98",
+        "status": "Live"
+    },
+    {
+        "naam": "Terneuzen: Massagoedhaven Bravo Ovet",
         "tijd": "West: Wandelaar",
         "kade": "179,98",
         "status": "Live"
