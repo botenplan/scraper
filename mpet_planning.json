@@ -1,44 +1,32 @@
 [
     {
-        "naam": "Gent: Kaai 7620, Kluizendok sector E (Gent)",
-        "tijd": "Noord: Steenbank",
-        "kade": "174,38",
-        "status": "Live"
-    },
-    {
-        "naam": "Vlissingen: Bijleveldhaven dwarskade",
-        "tijd": "West: Wandelaar",
-        "kade": "175,72",
-        "status": "Live"
-    },
-    {
-        "naam": "Vlissingen: Everingen Delta",
-        "tijd": "Noord: Steenbank",
-        "kade": "174,98",
-        "status": "Live"
-    },
-    {
         "naam": "Terneuzen: Massagoedhaven Bravo Ovet",
         "tijd": "West: Wandelaar",
         "kade": "179,98",
         "status": "Live"
     },
     {
+        "naam": "Gent: Kaai 7620, Kluizendok sector E (Gent)",
+        "tijd": "Noord: Steenbank",
+        "kade": "174,38",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok Z 1702 DP World",
+        "tijd": "Noord: Steenbank",
+        "kade": "177,56",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "171,89",
+        "status": "Live"
+    },
+    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
-        "kade": "117,80",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok N 1734 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "217,02",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen linkeroever",
-        "tijd": "West: Wandelaar",
-        "kade": "176,60",
+        "kade": "179,42",
         "status": "Live"
     },
     {
@@ -50,13 +38,13 @@
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
-        "kade": "179,90",
+        "kade": "179,91",
         "status": "Live"
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
-        "kade": "179,91",
+        "kade": "179,90",
         "status": "Live"
     }
 ]
