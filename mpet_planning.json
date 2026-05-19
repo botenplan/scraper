@@ -1,20 +1,8 @@
 [
     {
-        "naam": "Terneuzen: Massagoedhaven Bravo Ovet",
-        "tijd": "West: Wandelaar",
-        "kade": "179,98",
-        "status": "Live"
-    },
-    {
         "naam": "Gent: Kaai 7620, Kluizendok sector E (Gent)",
         "tijd": "Noord: Steenbank",
         "kade": "174,38",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok Z 1702 DP World",
-        "tijd": "Noord: Steenbank",
-        "kade": "177,56",
         "status": "Live"
     },
     {
@@ -36,15 +24,21 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "179,91",
+        "naam": "Antwerpen: Deurganckdok N 1734 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "178,57",
         "status": "Live"
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "179,90",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "176,40",
         "status": "Live"
     }
 ]
