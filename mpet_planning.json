@@ -1,7 +1,14 @@
 [
     {
-        "naam": "Systeem Online: Geen MPET schepen",
-        "tijd": "12:06",
-        "kade": "Check Loodswezen"
+        "naam": "Vlissingen: Scaldia Terminal Verbrugge",
+        "tijd": "West: Wandelaar",
+        "kade": "179,92",
+        "status": "Live"
+    },
+    {
+        "naam": "Zeebrugge: LNG Terminal - Kaai 616 Zeebrugge Buite",
+        "tijd": "West: Wandelaar",
+        "kade": "117,07",
+        "status": "Live"
     }
 ]
