@@ -1,20 +1,26 @@
 [
     {
-        "naam": "Vlissingen: Scaldia Terminal Verbrugge",
-        "tijd": "West: Wandelaar",
-        "kade": "179,92",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
         "tijd": "Noord: Steenbank",
-        "kade": "179,90",
+        "kade": "171,89",
         "status": "Live"
     },
     {
         "naam": "Terneuzen: Yara Charlie Axelse Vlaktehaven",
         "tijd": "West: Wandelaar",
         "kade": "179,90",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Scaldia Terminal Verbrugge",
+        "tijd": "West: Wandelaar",
+        "kade": "179,92",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "177,78",
         "status": "Live"
     }
 ]
