@@ -16,5 +16,11 @@
         "tijd": "West: Wandelaar",
         "kade": "177,78",
         "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Noordzeeterminal 901",
+        "tijd": "Noord: Steenbank",
+        "kade": "172,11",
+        "status": "Live"
     }
 ]
