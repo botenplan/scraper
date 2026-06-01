@@ -12,9 +12,15 @@
         "status": "Live"
     },
     {
-        "naam": "Zeebrugge: Vandammesluis",
+        "naam": "Vlissingen: VZT",
         "tijd": "West: Wandelaar",
-        "kade": "176,70",
+        "kade": "179,97",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Bijleveldhaven dwarskade",
+        "tijd": "West: Wandelaar",
+        "kade": "178,50",
         "status": "Live"
     },
     {
