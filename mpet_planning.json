@@ -6,9 +6,15 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
+        "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
         "tijd": "Noord: Steenbank",
-        "kade": "171,89",
+        "kade": "178,57",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Noordzeeterminal 903",
+        "tijd": "West: Wandelaar",
+        "kade": "171,99",
         "status": "Live"
     },
     {
