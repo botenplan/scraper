@@ -1,12 +1,6 @@
 [
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "179,99",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "170,00",
         "status": "Live"
@@ -18,9 +12,21 @@
         "status": "Live"
     },
     {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,99",
+        "status": "Live"
+    },
+    {
         "naam": "Antwerpen: Noordzeeterminal 903",
         "tijd": "West: Wandelaar",
         "kade": "171,99",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Noordzeeterminal 911",
+        "tijd": "Noord: Steenbank",
+        "kade": "172,11",
         "status": "Live"
     },
     {
