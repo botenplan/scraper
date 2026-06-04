@@ -18,9 +18,15 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Noordzeeterminal 911",
+        "naam": "Antwerpen: Noordzeeterminal 913",
         "tijd": "Noord: Steenbank",
         "kade": "172,11",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "tijd": "West: Wandelaar",
+        "kade": "170,17",
         "status": "Live"
     },
     {
