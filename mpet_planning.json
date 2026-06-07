@@ -6,21 +6,15 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "179,92",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen linkeroever",
         "tijd": "West: Wandelaar",
         "kade": "170,17",
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "170,07",
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,92",
         "status": "Live"
     },
     {
@@ -30,9 +24,21 @@
         "status": "Live"
     },
     {
+        "naam": "Gent: Kaai 0990, Sifferdok sector D (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "173,00",
+        "status": "Live"
+    },
+    {
         "naam": "Terneuzen: Yara Charlie Axelse Vlaktehaven",
         "tijd": "Noord: Steenbank",
         "kade": "179,97",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "178,57",
         "status": "Live"
     },
     {
