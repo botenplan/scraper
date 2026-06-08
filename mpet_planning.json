@@ -1,7 +1,32 @@
 [
     {
-        "naam": "Systeem Online: Geen MPET schepen",
-        "tijd": "21:22",
-        "kade": "Check Loodswezen"
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "177,41",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "tijd": "West: Wandelaar",
+        "kade": "170,17",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Bijleveldhaven dwarskade",
+        "tijd": "West: Wandelaar",
+        "kade": "175,72",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok Z 1702 DP World",
+        "tijd": "Noord: Steenbank",
+        "kade": "177,56",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 0970, Sifferdok sector C (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "179,95",
+        "status": "Live"
     }
 ]
