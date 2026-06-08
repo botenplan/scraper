@@ -12,21 +12,27 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "179,92",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: Deurganckdok Z 1704 DP World",
-        "tijd": "Noord: Steenbank",
+        "tijd": "West: Wandelaar",
         "kade": "177,56",
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "naam": "Terneuzen: Zevenaarhaven Echo Verbrugge",
         "tijd": "West: Wandelaar",
-        "kade": "165,17",
+        "kade": "179,99",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Bijleveldhaven dwarskade",
+        "tijd": "West: Wandelaar",
+        "kade": "175,72",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 0970, Sifferdok sector C (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "179,95",
         "status": "Live"
     }
 ]
