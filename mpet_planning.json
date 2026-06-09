@@ -1,20 +1,32 @@
 [
     {
-        "naam": "Antwerpen: A'pen sluizen linkeroever",
-        "tijd": "West: Wandelaar",
-        "kade": "170,17",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok Z 1702 DP World",
+        "naam": "Terneuzen: Yara Charlie Axelse Vlaktehaven",
         "tijd": "Noord: Steenbank",
-        "kade": "177,56",
+        "kade": "179,99",
         "status": "Live"
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "177,41",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "tijd": "West: Wandelaar",
+        "kade": "170,17",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "tijd": "West: Wandelaar",
+        "kade": "165,17",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "tijd": "West: Wandelaar",
+        "kade": "176,00",
         "status": "Live"
     },
     {
