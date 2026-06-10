@@ -6,15 +6,15 @@
         "status": "Live"
     },
     {
-        "naam": "Vlissingen: Everingen Delta",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,99",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "178,57",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Noordzeeterminal 903",
+        "tijd": "Noord: Steenbank",
+        "kade": "172,11",
         "status": "Live"
     }
 ]
