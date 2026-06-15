@@ -1,20 +1,8 @@
 [
     {
-        "naam": "Terneuzen: Yara Charlie Axelse Vlaktehaven",
-        "tijd": "West: Wandelaar",
-        "kade": "179,99",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "179,90",
-        "status": "Live"
-    },
-    {
-        "naam": "Vlissingen: Vopak Steiger 2",
-        "tijd": "West: Wandelaar",
-        "kade": "174,00",
+        "naam": "Antwerpen: Deurganckdok N 1732 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "178,57",
         "status": "Live"
     },
     {
@@ -27,12 +15,6 @@
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "179,90",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "178,57",
         "status": "Live"
     },
     {
