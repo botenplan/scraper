@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,90",
-        "status": "Live"
-    },
-    {
         "naam": "Gent: Kaai 0970, Sifferdok sector C (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "179,95",
@@ -15,12 +9,6 @@
         "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "178,57",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok N 1734 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "171,89",
         "status": "Live"
     },
     {
