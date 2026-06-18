@@ -10,5 +10,23 @@
         "tijd": "Noord: Steenbank",
         "kade": "172,11",
         "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "217,02",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok Z 1702 DP World",
+        "tijd": "Noord: Steenbank",
+        "kade": "172,00",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Scaldia Terminal Verbrugge",
+        "tijd": "West: Wandelaar",
+        "kade": "179,97",
+        "status": "Live"
     }
 ]
