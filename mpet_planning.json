@@ -1,12 +1,6 @@
 [
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "174,38",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "179,86",
         "status": "Live"
@@ -32,7 +26,7 @@
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
-        "kade": "179,97",
+        "kade": "174,38",
         "status": "Live"
     },
     {
