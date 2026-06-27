@@ -12,12 +12,6 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
-        "tijd": "West: Wandelaar",
-        "kade": "178,57",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen linkeroever",
         "tijd": "West: Wandelaar",
         "kade": "176,70",
@@ -33,6 +27,12 @@
         "naam": "Vlissingen: Everingen Charlie",
         "tijd": "West: Wandelaar",
         "kade": "183,17",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,97",
         "status": "Live"
     },
     {
