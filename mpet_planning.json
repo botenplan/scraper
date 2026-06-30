@@ -6,12 +6,6 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "171,92",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "176,75",
@@ -33,6 +27,12 @@
         "naam": "Vlissingen: Scaldia Noordkade Verbrugge",
         "tijd": "West: Wandelaar",
         "kade": "179,97",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,99",
         "status": "Live"
     },
     {
