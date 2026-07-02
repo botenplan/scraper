@@ -42,15 +42,15 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Noordzeeterminal 901",
-        "tijd": "Noord: Steenbank",
-        "kade": "172,11",
-        "status": "Live"
-    },
-    {
         "naam": "Vlissingen: Everingen Delta",
         "tijd": "Noord: Steenbank",
         "kade": "176,00",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Noordzeeterminal 901",
+        "tijd": "Noord: Steenbank",
+        "kade": "172,11",
         "status": "Live"
     },
     {
