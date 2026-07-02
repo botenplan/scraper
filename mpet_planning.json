@@ -24,7 +24,7 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Noordzeeterminal 913",
+        "naam": "Antwerpen: Noordzeeterminal 901",
         "tijd": "Noord: Steenbank",
         "kade": "172,11",
         "status": "Live"
@@ -42,15 +42,15 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Noordzeeterminal 901",
-        "tijd": "Noord: Steenbank",
-        "kade": "171,99",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "179,86",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Noordzeeterminal 901",
+        "tijd": "Noord: Steenbank",
+        "kade": "171,99",
         "status": "Live"
     },
     {
@@ -69,6 +69,12 @@
         "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
         "tijd": "West: Wandelaar",
         "kade": "178,57",
+        "status": "Live"
+    },
+    {
+        "naam": "Terneuzen: Yara Charlie Axelse Vlaktehaven",
+        "tijd": "Noord: Steenbank",
+        "kade": "176,99",
         "status": "Live"
     }
 ]
