@@ -24,15 +24,15 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
-        "tijd": "West: Wandelaar",
-        "kade": "179,75",
-        "status": "Live"
-    },
-    {
         "naam": "Terneuzen: Yara Charlie Axelse Vlaktehaven",
         "tijd": "Noord: Steenbank",
         "kade": "179,90",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
+        "tijd": "West: Wandelaar",
+        "kade": "179,75",
         "status": "Live"
     },
     {
