@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "179,99",
-        "status": "Live"
-    },
-    {
         "naam": "Terneuzen: Oceandock Noord Braakmanhaven DOW",
         "tijd": "Noord: Steenbank",
         "kade": "179,86",
@@ -15,6 +9,18 @@
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "177,78",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,97",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,90",
         "status": "Live"
     },
     {
