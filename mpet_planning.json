@@ -6,27 +6,15 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "177,78",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
-        "tijd": "West: Wandelaar",
-        "kade": "179,75",
-        "status": "Live"
-    },
-    {
-        "naam": "Terneuzen: Yara Charlie Axelse Vlaktehaven",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,90",
-        "status": "Live"
-    },
-    {
         "naam": "Terneuzen: Oceandock Noord Braakmanhaven DOW",
         "tijd": "Noord: Steenbank",
         "kade": "179,86",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "177,78",
         "status": "Live"
     },
     {
