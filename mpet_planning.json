@@ -54,15 +54,33 @@
         "status": "Live"
     },
     {
+        "naam": "Zeebrugge: Vandammesluis",
+        "tijd": "West: Wandelaar",
+        "kade": "179,48",
+        "status": "Live"
+    },
+    {
         "naam": "Antwerpen: A'pen sluizen linkeroever",
         "tijd": "Noord: Steenbank",
         "kade": "179,90",
         "status": "Live"
     },
     {
+        "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "171,89",
+        "status": "Live"
+    },
+    {
         "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
         "tijd": "West: Wandelaar",
         "kade": "178,57",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 7800, Kluizendok sector G (Gent)",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,90",
         "status": "Live"
     }
 ]
