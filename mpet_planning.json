@@ -6,12 +6,6 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "177,78",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen linkeroever",
         "tijd": "West: Wandelaar",
         "kade": "179,97",
@@ -51,6 +45,18 @@
         "naam": "Zeebrugge: Vandammesluis",
         "tijd": "West: Wandelaar",
         "kade": "179,48",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,99",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,96",
         "status": "Live"
     },
     {
