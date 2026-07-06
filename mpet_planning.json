@@ -24,21 +24,9 @@
         "status": "Live"
     },
     {
-        "naam": "Terneuzen: Yara Charlie Axelse Vlaktehaven",
-        "tijd": "Noord: Steenbank",
-        "kade": "176,99",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: Deurganckdok Z 1702 DP World",
         "tijd": "Noord: Steenbank",
         "kade": "172,10",
-        "status": "Live"
-    },
-    {
-        "naam": "Zeebrugge: Vandammesluis",
-        "tijd": "West: Wandelaar",
-        "kade": "179,48",
         "status": "Live"
     },
     {
@@ -54,6 +42,12 @@
         "status": "Live"
     },
     {
+        "naam": "Zeebrugge: Kaai 122 Zeebrugge Buitenhaven",
+        "tijd": "West: Wandelaar",
+        "kade": "179,75",
+        "status": "Live"
+    },
+    {
         "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "171,89",
@@ -63,6 +57,12 @@
         "naam": "Antwerpen: A'pen sluizen linkeroever",
         "tijd": "Noord: Steenbank",
         "kade": "179,90",
+        "status": "Live"
+    },
+    {
+        "naam": "Terneuzen: Yara Charlie Axelse Vlaktehaven",
+        "tijd": "Noord: Steenbank",
+        "kade": "176,99",
         "status": "Live"
     },
     {
