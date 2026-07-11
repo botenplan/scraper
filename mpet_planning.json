@@ -16,5 +16,11 @@
         "tijd": "Noord: Steenbank",
         "kade": "172,00",
         "status": "Live"
+    },
+    {
+        "naam": "Zeebrugge: Kaai 123 Zeebrugge Buitenhaven",
+        "tijd": "West: Wandelaar",
+        "kade": "178,57",
+        "status": "Live"
     }
 ]
