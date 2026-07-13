@@ -1,8 +1,8 @@
 [
     {
-        "naam": "Antwerpen: Deurganckdok Z 1700 DP World",
-        "tijd": "Noord: Steenbank",
-        "kade": "172,00",
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "174,38",
         "status": "Live"
     },
     {
@@ -13,20 +13,32 @@
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "174,38",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,48",
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,48",
+        "naam": "Vlissingen: Bijleveldhaven dwarskade",
+        "tijd": "West: Wandelaar",
+        "kade": "178,50",
         "status": "Live"
     },
     {
         "naam": "Antwerpen: Deurganckdok N 1742 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "178,57",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok Z 1704 DP World",
+        "tijd": "Noord: Steenbank",
+        "kade": "172,00",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "170,11",
         "status": "Live"
     }
 ]
