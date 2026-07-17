@@ -12,12 +12,6 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Noordzeeterminal 901",
-        "tijd": "Noord: Steenbank",
-        "kade": "171,99",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: Noordzeeterminal 911",
         "tijd": "Noord: Steenbank",
         "kade": "172,11",
@@ -33,6 +27,12 @@
         "naam": "Gent: Kaai 2060, Mercatordok Zuid (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "170,70",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 1010, Sifferdok sector D (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "179,99",
         "status": "Live"
     },
     {
