@@ -24,15 +24,15 @@
         "status": "Live"
     },
     {
-        "naam": "Gent: Kaai 1010, Sifferdok sector D (Gent)",
-        "tijd": "West: Wandelaar",
-        "kade": "179,99",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: Deurganckdok N 1732 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "171,89",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 0900, Sifferdok sector B (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "148,17",
         "status": "Live"
     },
     {
@@ -45,12 +45,6 @@
         "naam": "Antwerpen: A'pen sluizen linkeroever",
         "tijd": "West: Wandelaar",
         "kade": "176,00",
-        "status": "Live"
-    },
-    {
-        "naam": "Gent: Kaai 0900, Sifferdok sector B (Gent)",
-        "tijd": "West: Wandelaar",
-        "kade": "148,17",
         "status": "Live"
     },
     {
