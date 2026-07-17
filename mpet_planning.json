@@ -12,13 +12,13 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Noordzeeterminal 913",
+        "naam": "Antwerpen: Noordzeeterminal 901",
         "tijd": "Noord: Steenbank",
         "kade": "171,99",
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Noordzeeterminal 901",
+        "naam": "Antwerpen: Noordzeeterminal 911",
         "tijd": "Noord: Steenbank",
         "kade": "172,11",
         "status": "Live"
@@ -27,6 +27,12 @@
         "naam": "Terneuzen: Yara Charlie Axelse Vlaktehaven",
         "tijd": "Noord: Steenbank",
         "kade": "179,98",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 2060, Mercatordok Zuid (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "170,70",
         "status": "Live"
     },
     {
