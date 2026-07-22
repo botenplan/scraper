@@ -12,9 +12,27 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1728 MPET West",
+        "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
         "tijd": "West: Wandelaar",
         "kade": "179,75",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 5945, Rutgers Belgium (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "117,18",
+        "status": "Live"
+    },
+    {
+        "naam": "Zeebrugge: Kaai 206 Zeebrugge Buitenhaven",
+        "tijd": "West: Wandelaar",
+        "kade": "117,90",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1742 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "178,57",
         "status": "Live"
     }
 ]
