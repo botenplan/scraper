@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "117,90",
-        "status": "Live"
-    },
-    {
         "naam": "Vlissingen: Everingen Charlie",
         "tijd": "West: Wandelaar",
         "kade": "174,98",
@@ -24,6 +18,18 @@
         "status": "Live"
     },
     {
+        "naam": "Zeebrugge: Kaai 123 Zeebrugge Buitenhaven",
+        "tijd": "West: Wandelaar",
+        "kade": "178,57",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "117,90",
+        "status": "Live"
+    },
+    {
         "naam": "Zeebrugge: Kaai 206 Zeebrugge Buitenhaven",
         "tijd": "West: Wandelaar",
         "kade": "117,90",
@@ -39,6 +45,12 @@
         "naam": "Antwerpen: Deurganckdok N 1742 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "178,57",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1728 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "170,07",
         "status": "Live"
     }
 ]
