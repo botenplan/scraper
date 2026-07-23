@@ -18,7 +18,7 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1742 MPET West",
+        "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "178,57",
         "status": "Live"
@@ -27,6 +27,12 @@
         "naam": "Antwerpen: Deurganckdok N 1728 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "170,07",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Vopak Steiger 2",
+        "tijd": "West: Wandelaar",
+        "kade": "174,00",
         "status": "Live"
     }
 ]
