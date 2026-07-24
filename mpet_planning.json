@@ -18,6 +18,12 @@
         "status": "Live"
     },
     {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,96",
+        "status": "Live"
+    },
+    {
         "naam": "Antwerpen: A'pen sluizen linkeroever",
         "tijd": "Noord: Steenbank",
         "kade": "179,90",
@@ -51,6 +57,12 @@
         "naam": "Vlissingen: Bijleveldhaven Zuid",
         "tijd": "Noord: Steenbank",
         "kade": "178,50",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 0940, Sifferdok sector B (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "176,50",
         "status": "Live"
     },
     {
