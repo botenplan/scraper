@@ -6,12 +6,6 @@
         "status": "Live"
     },
     {
-        "naam": "Terneuzen: Yara Bravo Axelse Vlaktehaven",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,99",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "178,57",
@@ -36,21 +30,33 @@
         "status": "Live"
     },
     {
+        "naam": "Gent: Kaai 0640, Grootdok dwarskaai Midden-Noorddo",
+        "tijd": "West: Wandelaar",
+        "kade": "179,95",
+        "status": "Live"
+    },
+    {
+        "naam": "Terneuzen: Yara Bravo Axelse Vlaktehaven",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,99",
+        "status": "Live"
+    },
+    {
         "naam": "Antwerpen: Deurganckdok Z 1702 DP World",
         "tijd": "Noord: Steenbank",
         "kade": "172,10",
         "status": "Live"
     },
     {
-        "naam": "Vlissingen: Bijleveldhaven Noord",
-        "tijd": "Noord: Steenbank",
-        "kade": "178,50",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: Deurganckdok N 1742 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "222,17",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "117,90",
         "status": "Live"
     }
 ]
