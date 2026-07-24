@@ -6,12 +6,6 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "178,57",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: Deurganckdok N 1728 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "170,07",
@@ -30,6 +24,12 @@
         "status": "Live"
     },
     {
+        "naam": "Gent: Kaai 7210, Kluizendok sector A (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "170,10",
+        "status": "Live"
+    },
+    {
         "naam": "Gent: Kaai 0640, Grootdok dwarskaai Midden-Noorddo",
         "tijd": "West: Wandelaar",
         "kade": "179,95",
@@ -45,6 +45,12 @@
         "naam": "Antwerpen: Deurganckdok Z 1702 DP World",
         "tijd": "Noord: Steenbank",
         "kade": "172,10",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1728 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "171,92",
         "status": "Live"
     },
     {
