@@ -34,5 +34,17 @@
         "tijd": "Noord: Steenbank",
         "kade": "172,10",
         "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Bijleveldhaven Noord",
+        "tijd": "Noord: Steenbank",
+        "kade": "178,50",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1742 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "222,17",
+        "status": "Live"
     }
 ]
