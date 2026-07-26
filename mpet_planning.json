@@ -12,12 +12,6 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,96",
-        "status": "Live"
-    },
-    {
         "naam": "Gent: Kaai 7210, Kluizendok sector A (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "170,10",
@@ -33,6 +27,12 @@
         "naam": "Antwerpen: Deurganckdok N 1728 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "171,92",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,96",
         "status": "Live"
     },
     {
