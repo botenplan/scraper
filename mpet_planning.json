@@ -12,21 +12,21 @@
         "status": "Live"
     },
     {
-        "naam": "Gent: Kaai 7210, Kluizendok sector A (Gent)",
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,86",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 7220, Kluizendok sector A (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "170,10",
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,96",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,86",
+        "naam": "Vlissingen: Bijleveldhaven dwarskade",
+        "tijd": "West: Wandelaar",
+        "kade": "175,72",
         "status": "Live"
     },
     {
