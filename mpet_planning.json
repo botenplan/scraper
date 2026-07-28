@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Gent: Kaai 5945, Rutgers Belgium (Gent)",
-        "tijd": "West: Wandelaar",
-        "kade": "117,18",
-        "status": "Live"
-    },
-    {
         "naam": "Vlissingen: Vopak Steiger 2",
         "tijd": "West: Wandelaar",
         "kade": "174,00",
@@ -15,6 +9,18 @@
         "naam": "Gent: Kaai 7220, Kluizendok sector A (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "170,10",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 5945, Rutgers Belgium (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "117,18",
+        "status": "Live"
+    },
+    {
+        "naam": "Zeebrugge: Vandammesluis",
+        "tijd": "West: Wandelaar",
+        "kade": "176,55",
         "status": "Live"
     },
     {
