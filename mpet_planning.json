@@ -6,12 +6,6 @@
         "status": "Live"
     },
     {
-        "naam": "Gent: Kaai 7220, Kluizendok sector A (Gent)",
-        "tijd": "West: Wandelaar",
-        "kade": "170,10",
-        "status": "Live"
-    },
-    {
         "naam": "Gent: Kaai 5945, Rutgers Belgium (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "117,18",
@@ -42,15 +36,15 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Noordzeeterminal 901",
-        "tijd": "Noord: Steenbank",
-        "kade": "172,11",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "171,89",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Noordzeeterminal 907",
+        "tijd": "Noord: Steenbank",
+        "kade": "172,11",
         "status": "Live"
     },
     {
