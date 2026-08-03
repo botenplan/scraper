@@ -1,14 +1,26 @@
 [
     {
-        "naam": "Terneuzen: Oceandock Noord Braakmanhaven DOW",
+        "naam": "Vlissingen: Bijleveldhaven dwarskade",
+        "tijd": "West: Wandelaar",
+        "kade": "178,50",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "173,70",
+        "status": "Live"
+    },
+    {
+        "naam": "Terneuzen: Oceandock Zuid Braakmanhaven DOW",
         "tijd": "Noord: Steenbank",
         "kade": "179,86",
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Noordzeeterminal 901",
-        "tijd": "Noord: Steenbank",
-        "kade": "171,99",
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,90",
         "status": "Live"
     }
 ]
