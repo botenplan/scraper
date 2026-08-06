@@ -18,9 +18,15 @@
         "status": "Live"
     },
     {
-        "naam": "Vlissingen: Bijleveldhaven Noord",
+        "naam": "Gent: Kaai 5945, Rutgers Belgium (Gent)",
         "tijd": "Noord: Steenbank",
-        "kade": "172,00",
+        "kade": "117,18",
+        "status": "Live"
+    },
+    {
+        "naam": "Zeebrugge: Vandammesluis",
+        "tijd": "West: Wandelaar",
+        "kade": "174,98",
         "status": "Live"
     },
     {
