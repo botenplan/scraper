@@ -18,20 +18,8 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "171,89",
-        "status": "Live"
-    },
-    {
-        "naam": "Zeebrugge: Vandammesluis",
-        "tijd": "West: Wandelaar",
-        "kade": "179,99",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: Noordzeeterminal 901",
-        "tijd": "Noord: Steenbank",
+        "tijd": "West: Wandelaar",
         "kade": "172,11",
         "status": "Live"
     }
