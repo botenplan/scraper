@@ -19,8 +19,14 @@
     },
     {
         "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
-        "tijd": "Noord: Steenbank",
+        "tijd": "West: Wandelaar",
         "kade": "217,02",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "178,57",
         "status": "Live"
     }
 ]
