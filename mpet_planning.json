@@ -1,14 +1,14 @@
 [
     {
-        "naam": "Gent: Kaai 4710, Rodenhuizedok kaai EVOS (Gent)",
-        "tijd": "West: Wandelaar",
-        "kade": "175,00",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: Deurganckdok N 1742 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "171,92",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 4710, Rodenhuizedok kaai EVOS (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "175,00",
         "status": "Live"
     },
     {
