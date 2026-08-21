@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "177,78",
-        "status": "Live"
-    },
-    {
         "naam": "Gent: Kaai 4710, Rodenhuizedok kaai EVOS (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "175,00",
@@ -15,6 +9,18 @@
         "naam": "Antwerpen: A'pen sluizen linkeroever",
         "tijd": "West: Wandelaar",
         "kade": "179,86",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "177,78",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 1010, Sifferdok sector D (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "179,99",
         "status": "Live"
     },
     {
