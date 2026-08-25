@@ -18,9 +18,21 @@
         "status": "Live"
     },
     {
+        "naam": "Zeebrugge: Kaai 705 Zeebrugge Buitenhaven",
+        "tijd": "West: Wandelaar",
+        "kade": "175,49",
+        "status": "Live"
+    },
+    {
         "naam": "Antwerpen: Deurganckdok N 1734 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "178,57",
+        "status": "Live"
+    },
+    {
+        "naam": "Terneuzen: Yara Bravo Axelse Vlaktehaven",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,99",
         "status": "Live"
     },
     {
