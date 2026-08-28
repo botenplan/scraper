@@ -1,38 +1,38 @@
 [
     {
-        "naam": "Terneuzen: Yara Bravo Axelse Vlaktehaven",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,99",
-        "status": "Live"
-    },
-    {
-        "naam": "Vlissingen: Scaldia Noord",
-        "tijd": "West: Northeast Akkaert",
-        "kade": "117,00",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "195,17",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen linkeroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "176,00",
-        "status": "Live"
-    },
-    {
         "naam": "Gent: Kaai 2060, Mercatordok Zuid (Gent)",
         "tijd": "Noord: Steenbank",
         "kade": "179,95",
         "status": "Live"
     },
     {
+        "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "171,92",
+        "status": "Live"
+    },
+    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "179,96",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok Z 1704 DP World",
+        "tijd": "Noord: Steenbank",
+        "kade": "177,56",
+        "status": "Live"
+    },
+    {
+        "naam": "Terneuzen: Oceandock Noord Braakmanhaven DOW",
+        "tijd": "West: Wandelaar",
+        "kade": "179,86",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Vopak Steiger 2",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,86",
         "status": "Live"
     },
     {
