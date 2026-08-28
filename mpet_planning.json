@@ -14,6 +14,24 @@
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
+        "kade": "195,17",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "176,00",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 2060, Mercatordok Zuid (Gent)",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,95",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
         "kade": "179,96",
         "status": "Live"
     },
