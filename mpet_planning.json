@@ -6,21 +6,15 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
+        "naam": "Antwerpen: Deurganckdok Z 1704 DP World",
         "tijd": "Noord: Steenbank",
-        "kade": "171,92",
+        "kade": "177,56",
         "status": "Live"
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
-        "kade": "179,96",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok Z 1704 DP World",
-        "tijd": "Noord: Steenbank",
-        "kade": "177,56",
+        "kade": "179,57",
         "status": "Live"
     },
     {
@@ -30,9 +24,27 @@
         "status": "Live"
     },
     {
+        "naam": "Gent: Kaai 7130, Kluizendok sector A (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "179,90",
+        "status": "Live"
+    },
+    {
         "naam": "Vlissingen: Vopak Steiger 2",
         "tijd": "Noord: Steenbank",
         "kade": "179,86",
+        "status": "Live"
+    },
+    {
+        "naam": "Zeebrugge: Vandammesluis",
+        "tijd": "West: Wandelaar",
+        "kade": "179,99",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,96",
         "status": "Live"
     },
     {
