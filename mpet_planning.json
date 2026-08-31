@@ -6,12 +6,6 @@
         "status": "Live"
     },
     {
-        "naam": "Vlissingen: Vopak Steiger 2",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,86",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "179,86",
@@ -21,6 +15,12 @@
         "naam": "Vlissingen: VZT",
         "tijd": "Noord: Steenbank",
         "kade": "117,02",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Vopak Steiger 2",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,86",
         "status": "Live"
     },
     {
