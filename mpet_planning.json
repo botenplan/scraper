@@ -1,14 +1,20 @@
 [
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,99",
+        "tijd": "West: Wandelaar",
+        "kade": "117,90",
         "status": "Live"
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
         "kade": "179,86",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1734 MPET West",
+        "tijd": "West: Wandelaar",
+        "kade": "179,75",
         "status": "Live"
     },
     {
