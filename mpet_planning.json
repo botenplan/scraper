@@ -14,6 +14,12 @@
     {
         "naam": "Antwerpen: A'pen sluizen linkeroever",
         "tijd": "West: Wandelaar",
+        "kade": "179,95",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "tijd": "West: Wandelaar",
         "kade": "179,54",
         "status": "Live"
     },
