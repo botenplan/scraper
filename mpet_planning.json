@@ -7,26 +7,20 @@
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
+        "tijd": "Noord: Steenbank",
         "kade": "179,94",
-        "status": "Live"
-    },
-    {
-        "naam": "Vlissingen: Bijleveldhaven Noord",
-        "tijd": "West: Wandelaar",
-        "kade": "176,91",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: SCTZ (Cruiseterminal Zuid)",
-        "tijd": "West: Wandelaar",
-        "kade": "217,91",
         "status": "Live"
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "179,90",
+        "status": "Live"
+    },
+    {
+        "naam": "Zeebrugge: Vandammesluis",
+        "tijd": "West: Wandelaar",
+        "kade": "176,00",
         "status": "Live"
     },
     {
