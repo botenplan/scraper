@@ -18,12 +18,6 @@
         "status": "Live"
     },
     {
-        "naam": "Zeebrugge: Vandammesluis",
-        "tijd": "West: Wandelaar",
-        "kade": "176,70",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen linkeroever",
         "tijd": "West: Wandelaar",
         "kade": "170,00",
@@ -32,7 +26,7 @@
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
-        "kade": "178,20",
+        "kade": "179,91",
         "status": "Live"
     },
     {
@@ -42,9 +36,9 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "naam": "Vlissingen: Bijleveldhaven dwarskade",
         "tijd": "West: Wandelaar",
-        "kade": "179,86",
+        "kade": "178,50",
         "status": "Live"
     },
     {
