@@ -30,12 +30,6 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "179,90",
-        "status": "Live"
-    },
-    {
         "naam": "Terneuzen: DOW A Oost Braakmanhaven Steiger",
         "tijd": "West: Wandelaar",
         "kade": "179,96",
@@ -45,6 +39,18 @@
         "naam": "Zeebrugge: Kaai 206 Zeebrugge Buitenhaven",
         "tijd": "West: Wandelaar",
         "kade": "117,90",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,90",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,86",
         "status": "Live"
     },
     {
