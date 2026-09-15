@@ -20,19 +20,7 @@
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
-        "kade": "179,86",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "179,90",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "178,57",
+        "kade": "144,17",
         "status": "Live"
     },
     {
@@ -48,9 +36,21 @@
         "status": "Live"
     },
     {
+        "naam": "Terneuzen: Autrichehaven Bravo Vlaeynatie",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,90",
+        "status": "Live"
+    },
+    {
         "naam": "Vlissingen: Vopak Steiger 2",
         "tijd": "West: Wandelaar",
         "kade": "179,87",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Noordzeeterminal 911",
+        "tijd": "Noord: Steenbank",
+        "kade": "172,11",
         "status": "Live"
     }
 ]
