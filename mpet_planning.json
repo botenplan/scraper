@@ -12,21 +12,9 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen linkeroever",
-        "tijd": "West: Wandelaar",
-        "kade": "170,00",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "179,91",
-        "status": "Live"
-    },
-    {
-        "naam": "Vlissingen: Bijleveldhaven dwarskade",
-        "tijd": "West: Wandelaar",
-        "kade": "178,50",
         "status": "Live"
     },
     {
@@ -51,6 +39,12 @@
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "179,86",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "tijd": "West: Wandelaar",
+        "kade": "170,00",
         "status": "Live"
     },
     {
