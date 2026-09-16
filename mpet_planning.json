@@ -24,18 +24,6 @@
         "status": "Live"
     },
     {
-        "naam": "Vlissingen: Everingen Charlie",
-        "tijd": "West: Wandelaar",
-        "kade": "177,13",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "178,57",
-        "status": "Live"
-    },
-    {
         "naam": "Vlissingen: Vopak Steiger 2",
         "tijd": "West: Wandelaar",
         "kade": "179,87",
@@ -48,7 +36,7 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Noordzeeterminal 911",
+        "naam": "Antwerpen: Noordzeeterminal 907",
         "tijd": "Noord: Steenbank",
         "kade": "172,11",
         "status": "Live"
