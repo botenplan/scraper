@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Vlissingen: Everingen Alfa",
-        "tijd": "West: Wandelaar",
-        "kade": "179,90",
-        "status": "Live"
-    },
-    {
         "naam": "Vlissingen: Everingen Bravo",
         "tijd": "West: Wandelaar",
         "kade": "179,97",
@@ -21,6 +15,12 @@
         "naam": "Gent: Kaai 2100, Mercatordok Zuid (Gent)",
         "tijd": "Noord: Steenbank",
         "kade": "179,95",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,90",
         "status": "Live"
     },
     {
