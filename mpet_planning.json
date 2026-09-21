@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Vlissingen: Everingen Charlie",
-        "tijd": "West: Wandelaar",
-        "kade": "170,70",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "179,87",
@@ -21,6 +15,12 @@
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "178,76",
+        "status": "Live"
+    },
+    {
+        "naam": "Terneuzen: Yara Bravo Axelse Vlaktehaven",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,95",
         "status": "Live"
     },
     {
