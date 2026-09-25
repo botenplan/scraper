@@ -6,19 +6,13 @@
         "status": "Live"
     },
     {
-        "naam": "Gent: Kaai 2340, Kanaal R.O. G.C.T. (Gent)",
-        "tijd": "West: Wandelaar",
-        "kade": "179,99",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "170,00",
         "status": "Live"
     },
     {
-        "naam": "Gent: Kaai 4680, Rodenhuizedok steiger EVOS (Gent)",
+        "naam": "Gent: Kaai 4710, Rodenhuizedok kaai EVOS (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "175,00",
         "status": "Live"
@@ -33,6 +27,12 @@
         "naam": "Gent: Kaai 1010, Sifferdok sector D (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "179,99",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,90",
         "status": "Live"
     },
     {
