@@ -12,12 +12,6 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Noordzeeterminal 909",
-        "tijd": "Noord: Steenbank",
-        "kade": "171,99",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "171,92",
@@ -33,6 +27,18 @@
         "naam": "Gent: Kaai 4680, Rodenhuizedok steiger EVOS (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "175,00",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: VZT",
+        "tijd": "Noord: Steenbank",
+        "kade": "170,40",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,90",
         "status": "Live"
     },
     {
