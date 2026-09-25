@@ -6,15 +6,9 @@
         "status": "Live"
     },
     {
-        "naam": "Gent: Kaai 2350, Kanaal R.O. G.C.T. (Gent)",
+        "naam": "Gent: Kaai 2340, Kanaal R.O. G.C.T. (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "179,99",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok N 1726 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "171,92",
         "status": "Live"
     },
     {
@@ -33,6 +27,12 @@
         "naam": "Vlissingen: VZT",
         "tijd": "Noord: Steenbank",
         "kade": "170,40",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 1010, Sifferdok sector D (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "179,99",
         "status": "Live"
     },
     {
