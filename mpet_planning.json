@@ -30,9 +30,27 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Noordzeeterminal 909",
+        "naam": "Vlissingen: Everingen Delta",
+        "tijd": "Noord: Steenbank",
+        "kade": "175,00",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok Z 1716 MPET Oost",
+        "tijd": "Noord: Steenbank",
+        "kade": "294,17",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Noordzeeterminal 911",
         "tijd": "Noord: Steenbank",
         "kade": "172,11",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "117,90",
         "status": "Live"
     }
 ]
