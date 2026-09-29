@@ -6,21 +6,9 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,90",
-        "status": "Live"
-    },
-    {
         "naam": "Terneuzen: Zevenaarhaven Delta Roro 3 Verbrugge",
         "tijd": "West: Wandelaar",
         "kade": "179,98",
-        "status": "Live"
-    },
-    {
-        "naam": "Vlissingen: Everingen Delta",
-        "tijd": "Noord: Steenbank",
-        "kade": "175,00",
         "status": "Live"
     },
     {
@@ -30,15 +18,15 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Noordzeeterminal 909",
+        "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
         "tijd": "Noord: Steenbank",
-        "kade": "172,11",
+        "kade": "171,89",
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "Noord: Steenbank",
-        "kade": "178,57",
+        "kade": "179,90",
         "status": "Live"
     },
     {
