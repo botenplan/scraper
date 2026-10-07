@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Vlissingen: VZT",
-        "tijd": "West: Wandelaar",
-        "kade": "179,99",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "117,90",
@@ -21,12 +15,6 @@
         "naam": "Gent: Kaai 7190, Kluizendok sector A (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "177,58",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
-        "tijd": "Noord: Steenbank",
-        "kade": "178,57",
         "status": "Live"
     },
     {
