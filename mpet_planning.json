@@ -1,7 +1,14 @@
 [
     {
-        "naam": "Systeem Online: Geen MPET schepen",
-        "tijd": "08:49",
-        "kade": "Check Loodswezen"
+        "naam": "Vlissingen: VZT",
+        "tijd": "West: Wandelaar",
+        "kade": "170,40",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1742 MPET West",
+        "tijd": "West: Wandelaar",
+        "kade": "179,75",
+        "status": "Live"
     }
 ]
