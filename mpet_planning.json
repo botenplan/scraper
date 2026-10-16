@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Vlissingen: Everingen Bravo",
-        "tijd": "West: Wandelaar",
-        "kade": "229,17",
-        "status": "Live"
-    },
-    {
         "naam": "Gent: Kaai 4680, Rodenhuizedok steiger EVOS (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "175,00",
@@ -18,6 +12,12 @@
         "status": "Live"
     },
     {
+        "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "171,92",
+        "status": "Live"
+    },
+    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "179,90",
@@ -27,6 +27,12 @@
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "170,11",
+        "status": "Live"
+    },
+    {
+        "naam": "Terneuzen: Yara Charlie Axelse Vlaktehaven",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,90",
         "status": "Live"
     }
 ]
