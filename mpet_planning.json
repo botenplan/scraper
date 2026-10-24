@@ -18,6 +18,24 @@
         "status": "Live"
     },
     {
+        "naam": "Antwerpen: Deurganckdok Z 1704 DP World",
+        "tijd": "Noord: Steenbank",
+        "kade": "172,00",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
+        "tijd": "West: Wandelaar",
+        "kade": "170,07",
+        "status": "Live"
+    },
+    {
+        "naam": "Zeebrugge: LNG Terminal - Kaai 616 Zeebrugge Buite",
+        "tijd": "West: Wandelaar",
+        "kade": "117,07",
+        "status": "Live"
+    },
+    {
         "naam": "Gent: Kaai 0490, Zuiddok Noord (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "179,53",
