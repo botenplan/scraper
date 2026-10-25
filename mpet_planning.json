@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Terneuzen: Yara Bravo Axelse Vlaktehaven",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,90",
-        "status": "Live"
-    },
-    {
         "naam": "Vlissingen: Kaloothaven Acces World",
         "tijd": "West: Wandelaar",
         "kade": "179,90",
@@ -33,6 +27,12 @@
         "naam": "Gent: Kaai 0490, Zuiddok Noord (Gent)",
         "tijd": "West: Wandelaar",
         "kade": "179,53",
+        "status": "Live"
+    },
+    {
+        "naam": "Terneuzen: Yara Bravo Axelse Vlaktehaven",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,90",
         "status": "Live"
     },
     {
