@@ -1,8 +1,20 @@
 [
     {
-        "naam": "Gent: Kaai 0490, Zuiddok Noord (Gent)",
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,86",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: VZT",
         "tijd": "West: Wandelaar",
-        "kade": "179,53",
+        "kade": "170,40",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok Z 1704 DP World",
+        "tijd": "Noord: Steenbank",
+        "kade": "172,00",
         "status": "Live"
     },
     {
