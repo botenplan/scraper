@@ -12,21 +12,15 @@
         "status": "Live"
     },
     {
-        "naam": "Vlissingen: Everingen Charlie",
-        "tijd": "Noord: Steenbank",
-        "kade": "174,98",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok Z 1704 DP World",
-        "tijd": "Noord: Steenbank",
-        "kade": "172,00",
-        "status": "Live"
-    },
-    {
         "naam": "Vlissingen: Kaloothaven Acces World",
         "tijd": "West: Wandelaar",
         "kade": "179,95",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Bijleveldhaven dwarskade",
+        "tijd": "West: Wandelaar",
+        "kade": "178,50",
         "status": "Live"
     },
     {
