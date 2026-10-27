@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Antwerpen: A'pen sluizen linkeroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,86",
-        "status": "Live"
-    },
-    {
         "naam": "Vlissingen: VZT",
         "tijd": "West: Wandelaar",
         "kade": "170,40",
@@ -21,6 +15,18 @@
         "naam": "Antwerpen: Deurganckdok N 1742 MPET West",
         "tijd": "West: Wandelaar",
         "kade": "178,57",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 0470, Zuiddok Oost (Gent)",
+        "tijd": "West: Wandelaar",
+        "kade": "179,53",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Everingen Charlie",
+        "tijd": "Noord: Steenbank",
+        "kade": "174,98",
         "status": "Live"
     },
     {
