@@ -1,20 +1,14 @@
 [
     {
-        "naam": "Terneuzen: Yara Bravo Axelse Vlaktehaven",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,90",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Noordzeeterminal 903",
-        "tijd": "Noord: Steenbank",
-        "kade": "172,11",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "179,87",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 2080, Mercatordok Zuid (Gent)",
+        "tijd": "Noord: Steenbank",
+        "kade": "179,95",
         "status": "Live"
     },
     {
@@ -27,6 +21,12 @@
         "naam": "Antwerpen: Deurganckdok N 1734 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "178,57",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,99",
         "status": "Live"
     }
 ]
