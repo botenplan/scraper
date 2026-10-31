@@ -6,12 +6,6 @@
         "status": "Live"
     },
     {
-        "naam": "Gent: Kaai 2080, Mercatordok Zuid (Gent)",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,95",
-        "status": "Live"
-    },
-    {
         "naam": "Vlissingen: Scheldepoort Kade J",
         "tijd": "West: Wandelaar",
         "kade": "179,87",
@@ -24,9 +18,21 @@
         "status": "Live"
     },
     {
+        "naam": "Terneuzen: Zevenaarhaven Delta Roro 3 Verbrugge",
+        "tijd": "West: Wandelaar",
+        "kade": "179,95",
+        "status": "Live"
+    },
+    {
         "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "171,89",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
+        "tijd": "Noord: Steenbank",
+        "kade": "217,02",
         "status": "Live"
     },
     {
