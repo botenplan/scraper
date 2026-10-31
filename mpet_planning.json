@@ -12,7 +12,7 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1738 MPET West",
+        "naam": "Antwerpen: Deurganckdok N 1742 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "171,89",
         "status": "Live"
@@ -21,6 +21,12 @@
         "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
         "tijd": "Noord: Steenbank",
         "kade": "217,02",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Bijleveldhaven Noord",
+        "tijd": "West: Wandelaar",
+        "kade": "172,00",
         "status": "Live"
     },
     {
