@@ -6,21 +6,21 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok N 1734 MPET West",
+        "naam": "Antwerpen: Deurganckdok Z 1702 DP World",
         "tijd": "Noord: Steenbank",
-        "kade": "178,57",
-        "status": "Live"
-    },
-    {
-        "naam": "Zeebrugge: Kaai 121 Zeebrugge Buitenhaven",
-        "tijd": "West: Wandelaar",
-        "kade": "178,57",
+        "kade": "177,56",
         "status": "Live"
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "179,99",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,86",
         "status": "Live"
     },
     {
