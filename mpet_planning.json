@@ -6,12 +6,6 @@
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok Z 1702 DP World",
-        "tijd": "Noord: Steenbank",
-        "kade": "177,56",
-        "status": "Live"
-    },
-    {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "179,99",
@@ -21,6 +15,18 @@
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
         "kade": "179,86",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Scaldia Noordkade Verbrugge",
+        "tijd": "West: Wandelaar",
+        "kade": "177,00",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: Noordzeeterminal 903",
+        "tijd": "Noord: Steenbank",
+        "kade": "172,11",
         "status": "Live"
     },
     {
