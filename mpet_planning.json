@@ -7,38 +7,26 @@
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "179,93",
+        "tijd": "Noord: Steenbank",
+        "kade": "177,78",
         "status": "Live"
     },
     {
-        "naam": "Zeebrugge: Kaai 103 Zeebrugge Buitenhaven",
+        "naam": "Antwerpen: A'pen sluizen linkeroever",
         "tijd": "West: Wandelaar",
-        "kade": "117,03",
-        "status": "Live"
-    },
-    {
-        "naam": "Zeebrugge: Vandammesluis",
-        "tijd": "West: Wandelaar",
-        "kade": "176,55",
-        "status": "Live"
-    },
-    {
-        "naam": "Vlissingen: Scaldia Noordkade Verbrugge",
-        "tijd": "West: Wandelaar",
-        "kade": "177,00",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok N 1740 MPET West",
-        "tijd": "West: Wandelaar",
-        "kade": "179,75",
+        "kade": "179,99",
         "status": "Live"
     },
     {
         "naam": "Antwerpen: Noordzeeterminal 903",
         "tijd": "Noord: Steenbank",
         "kade": "172,11",
+        "status": "Live"
+    },
+    {
+        "naam": "Gent: Kaai 4750, Rodenhuizedok sector Eurosilo (Ge",
+        "tijd": "Noord: Steenbank",
+        "kade": "178,70",
         "status": "Live"
     },
     {
