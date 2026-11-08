@@ -6,33 +6,27 @@
         "status": "Live"
     },
     {
-        "naam": "Gent: Kaai 2070, Mercatordok Zuid (Gent)",
-        "tijd": "Noord: Steenbank",
-        "kade": "179,95",
-        "status": "Live"
-    },
-    {
-        "naam": "Zeebrugge: LNG Terminal - Kaai 616 Zeebrugge Buite",
-        "tijd": "West: A Zuid",
-        "kade": "117,07",
-        "status": "Live"
-    },
-    {
         "naam": "Gent: Kaai 4750, Rodenhuizedok sector Eurosilo (Ge",
         "tijd": "Noord: Steenbank",
         "kade": "178,70",
         "status": "Live"
     },
     {
-        "naam": "Antwerpen: Deurganckdok Z 1704 DP World",
-        "tijd": "Noord: Steenbank",
-        "kade": "177,56",
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
+        "kade": "179,99",
         "status": "Live"
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
-        "kade": "179,99",
+        "kade": "177,13",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Bijleveldhaven Noord",
+        "tijd": "West: Wandelaar",
+        "kade": "172,00",
         "status": "Live"
     },
     {
