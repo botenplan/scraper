@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "177,78",
-        "status": "Live"
-    },
-    {
         "naam": "Gent: Kaai 4750, Rodenhuizedok sector Eurosilo (Ge",
         "tijd": "Noord: Steenbank",
         "kade": "178,70",
@@ -20,25 +14,31 @@
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
+        "kade": "179,99",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "West: Wandelaar",
         "kade": "170,10",
         "status": "Live"
     },
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
-        "kade": "179,99",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
-        "tijd": "West: Wandelaar",
-        "kade": "294,17",
+        "kade": "175,29",
         "status": "Live"
     },
     {
         "naam": "Zeebrugge: Vandammesluis",
         "tijd": "West: Wandelaar",
         "kade": "174,98",
+        "status": "Live"
+    },
+    {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "177,78",
         "status": "Live"
     }
 ]
