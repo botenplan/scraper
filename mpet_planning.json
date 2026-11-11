@@ -1,5 +1,11 @@
 [
     {
+        "naam": "Antwerpen: A'pen sluizen rechteroever",
+        "tijd": "Noord: Steenbank",
+        "kade": "177,78",
+        "status": "Live"
+    },
+    {
         "naam": "Gent: Kaai 4750, Rodenhuizedok sector Eurosilo (Ge",
         "tijd": "Noord: Steenbank",
         "kade": "178,70",
@@ -8,19 +14,13 @@
     {
         "naam": "Antwerpen: A'pen sluizen rechteroever",
         "tijd": "West: Wandelaar",
-        "kade": "117,90",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
-        "kade": "179,99",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "West: Wandelaar",
         "kade": "175,29",
+        "status": "Live"
+    },
+    {
+        "naam": "Vlissingen: Scaldia Terminal Verbrugge",
+        "tijd": "Noord: Steenbank",
+        "kade": "177,50",
         "status": "Live"
     },
     {
@@ -39,12 +39,6 @@
         "naam": "Antwerpen: Deurganckdok N 1736 MPET West",
         "tijd": "West: Wandelaar",
         "kade": "178,57",
-        "status": "Live"
-    },
-    {
-        "naam": "Antwerpen: A'pen sluizen rechteroever",
-        "tijd": "Noord: Steenbank",
-        "kade": "177,78",
         "status": "Live"
     }
 ]
